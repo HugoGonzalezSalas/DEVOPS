@@ -16,3 +16,5 @@ La idea principal detrás de DevOps es acelerar el ciclo de vida del desarrollo 
 6. Mayor agilidad y flexibilidad: DevOps facilita la adaptación a los cambios del mercado y la rápida implementación de nuevas características.
 
 Para implementar DevOps con éxito, las organizaciones deben abrazar un cambio cultural que fomente la colaboración, la comunicación y la responsabilidad compartida. También deben invertir en herramientas y tecnologías que soporten la automatización, la integración continua y la entrega continua. En resumen, DevOps es una filosofía que impulsa la eficiencia y la innovación en el desarrollo de software, y se ha convertido en un elemento esencial para las empresas que buscan mantenerse competitivas en la era de la transformación digital.
+
+![image](/img/devop.jpg)
