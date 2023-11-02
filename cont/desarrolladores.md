@@ -12,4 +12,6 @@ Dentro de DevOps, el desarrollo es una de las dos partes fundamentales, junto co
 5. Gestión de la configuración: El control de la configuración es crítico para asegurarse de que las implementaciones sean coherentes y predecibles. Las herramientas de gestión de configuración, como Ansible y Puppet, son comunes en entornos DevOps.
 
 6. Prácticas de seguridad: La seguridad es una consideración importante en el desarrollo de software. Las prácticas de seguridad, como el escaneo de vulnerabilidades, son parte integral del proceso de desarrollo.
+
+
 ![image](/img/desarrolladores.jpg)
