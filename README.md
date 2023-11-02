@@ -1,5 +1,5 @@
 # DEVOPS
-![image](/img/devop.png)
+![image](/img/devops.png)
 
 ## Indice
 1. [Introduccion](/cont/introduccion.md)
