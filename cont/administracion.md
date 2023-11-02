@@ -15,3 +15,5 @@ Dentro del marco de DevOps, los administradores desempeñan un papel clave en el
 6. Resolución de problemas y escalabilidad: Cuando surgen problemas en la producción, los administradores son responsables de identificar y solucionar rápidamente los problemas. También deben asegurarse de que la infraestructura sea escalable para manejar aumentos en la carga.
 
 7. Comunicación y colaboración: La comunicación constante con el equipo de desarrollo es esencial. Los administradores deben colaborar estrechamente con los desarrolladores para comprender los requisitos operativos y garantizar una entrega eficiente y sin problemas.
+
+![image](/img/administradores.jpeg)
