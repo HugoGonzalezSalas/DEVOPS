@@ -25,5 +25,5 @@
 
 *Hugo Gonzalez Salas*
 
-## Referencia
+## Licencia
 ![image](/img/CC.png)
