@@ -6,3 +6,12 @@
 2. [Administradores de sistemas](/cont/administracion.md)
 3. [Desarrolladores](/cont/desarrolladores.md)
 4. [Devops](/cont/devops.md)
+
+## Referencias
+- [Presentacion de Manuel Dominguez Tienda](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/course/view.php?id=7692)
+
+## Autor
+- [*Hugo Gonzalez Salas*](https://github.com/HugoGonzalezSalas)
+
+## Referencia
+![image](/img/CC.png)
