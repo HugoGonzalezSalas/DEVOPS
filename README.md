@@ -19,6 +19,8 @@
 
 [Presentacion de Manuel Dominguez Tienda](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/course/view.php?id=7692)
 
+[Wikipedia](https://es.wikipedia.org/wiki/DevOps)
+
 ## Autor
 
 *Hugo Gonzalez Salas*
