@@ -1,5 +1,5 @@
 # DEVOPS
-![image](/img/devop.jpg)
+![image](/img/devops.jpg)
 
 ## Indice
 
